@@ -1,0 +1,7 @@
+jupyter
+opencv-python
+matplotlib
+opengl
+torch
+numpy
+sklearn
